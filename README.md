@@ -1,25 +1,27 @@
 # ARIMA-basics
 ARIMA model for sales forecasting 
-	Time series: when all other factors are constant prediction of future values.
-	Differenent Methods of doing Time series Analysis and Forecasting
-o	ARIMA model. 
-o	Seasonaly ARIMA.  Most used.
-o	Holt Winter Exponential Smoothing.Easiest and effective model
+  Time series: when all other factors are constant prediction of future values.
+  Differenent Methods of doing Time series Analysis and Forecasting
+  
+	  ARIMA model. 
+	  Seasonaly ARIMA.  Most used.
+	  Holt Winter Exponential Smoothing.Easiest and effective model
 
 1.	Important Concepts and terminology in Time series Analysis.
-o	Stationarity
-	A stationary time series is one whose properties(ie mean, variance, autocorrelation) does not depend on the time.
-o	Autoregression AR. 
-o	Moving Average MA
-o	Integration & Difference
-o	ACF and PACF Plots
-o	Time series components:
-	Trend: long term smooth movement, upward or downward
-	Seasonal: periodic fluctuation, less than 1 year, most commonly found in industry.
-	Cyclical: periodic fluctuation, more than 1 year.
-	irregularity: random movement.
+  Stationarity
 
-	ARIMA is the Most common model used for time series forecasting. It has 3 components.
+A stationary time series is one whose properties(ie mean, variance, autocorrelation) does not depend on the time.
+  Autoregression AR. 
+  Moving Average MA
+  Integration & Difference
+    ACF and PACF Plots
+  Time series components:
+    Trend: long term smooth movement, upward or downward
+    Seasonal: periodic fluctuation, less than 1 year, most commonly found in industry.
+    Cyclical: periodic fluctuation, more than 1 year.
+    irregularity: random movement.
+
+## ARIMA is the Most common model used for time series forecasting. It has 3 components.
 1.	Autoregression AR. 
 2.	Moving Average MA
 3.	Integrated
