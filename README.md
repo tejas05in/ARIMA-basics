@@ -5,7 +5,6 @@ ARIMA model for sales forecasting
 o	ARIMA model. 
 o	Seasonaly ARIMA.  Most used.
 o	Holt Winter Exponential Smoothing.Easiest and effective model
-o	Advanced Models (..Cooning soon! Start only after above 3 are done.)
 
 1.	Important Concepts and terminology in Time series Analysis.
 o	Stationarity
